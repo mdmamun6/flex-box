@@ -1,0 +1,25 @@
+hi{
+    font-size: 46px;
+}
+.container{
+    display: flex;
+    border: 2px solid tomato;
+    height: 300px;
+    justify-content: space-between;
+    /* For New Line */
+    /* flex-wrap: wrap; */
+    /* space-evenly mane box gulo soman vabe pave
+    space-around dui pase ordek majh khane soman
+    space between mane sudhu matro majkhane soman vabe pabe */
+}
+.box{
+    border: 2px dotted green;
+    width: 150px;
+    height: 150px;
+    /* justify-content: center;
+    align-items: center;
+    
+    etar mane item akdom middle a thakbe*/
+}
+/* align-items mean vertical borabor tar jayga kothay hobe seta */
+
